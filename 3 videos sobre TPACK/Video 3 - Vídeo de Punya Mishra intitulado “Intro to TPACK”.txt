@@ -1,0 +1,31 @@
+Introduction
+
+Welcome to an introduction to the TPACK framework. I am Punya Mishra at Michigan State University. To start, I want to go back to June 23rd, 1870. This is the date that India and England were first joined by undersea cable. This prompted George Bernard Shaw, the famous playwright, to say, "That's wonderful, but what are they gonna talk about?"
+
+You know, this question resonates even today when we think about the role that technology can play in education. We have focused our attention on a critical question: what is it that teachers need to know to intelligently integrate technology in teaching? The key challenge here, of course, is the fact that technology is changing at a very rapid rate. Just look at all these different websites, services, apps, tools, and technologies that we have available today.
+
+Combine that with sort of Web 2.0, social media, user-generated content. Then I think back to when I was growing up, that information used to come at me something like this, and now it's something like this, and getting faster every day and every minute. But I would argue that keeping up with this technology is actually one of the least of the problems we face. We really need to move beyond this idea of "I love technology," the sort of techno-centric framework, because technology is changing so fast. We need to focus on how technology changes how we teach and what we teach. I'm taking each of these in turn.
+
+How Technology Changes How We Teach
+
+Looking at how technology changes just how we teach, just think about the availability of information today through just normal, existing search engines. A kid in India, or in Botswana, or China now has access to more information than was available any time to the human race. This changes how we think about our classroom and teaching. Combine that with open courseware, Khan Academy videos, and other sorts of resources available online, Web 2.0 and user-generated content, the fact that children can bring their own devices to schools, the growth in online learning, and, you know, these massively open online courses that we hear so much about. In each of these cases, technology changes how we teach. Technology changes pedagogy.
+
+How Technology Changes What We Teach
+
+But there is more. Technology also changes what we teach. If you look at any field of human activity, whether it's mathematics, music, science, art, or history, it has changed due to technology. Just think about the music industry. How we create music, how we share music, how we buy and sell music is fundamentally different today than it was, let's say, 15 or 20 years ago.
+
+Technology has always played that role, opening up new vistas. For instance, the invention or discovery of the microscope led to a completely new world that we knew nothing about. One of my favorite examples is the periodic table of elements. This is something that you see in every text, you know, every chemistry textbook. But what is lacking is often these multiple representations of the periodic table that chemists and others have created, which now, with access to technologies, we can actually, students can actually engage and interact with. These are new ways of engaging and interacting with information. For instance, the Kinect, which you can actually use with your Xbox 360 or your laptop, brings about new ways of engaging with mathematical ideas in physical and kinesthetic kinds of ways. So, technology changes what we teach. Technology changes content.
+
+Context
+
+Now, where does all this happen? I think it's important to understand that context is very critical. A classroom which is a one-on-one classroom, where every child has a laptop or some other device, is very different from a classroom like this one in India, where students get to go to the lab for 30 minutes twice a week, where the internet may or may not be available. This is different from this classroom where students have these mobile devices where they can walk around, take video, take photographs, and share with each other. Of course, context is more than just the immediate classroom. These are also determined by the policies of the school district or the country or the state in question. For instance, here is another one where students in Denmark were allowed full access to the internet during exams. As you can imagine, this changes the kind of assessment of learning that we can do.
+
+So, technology changes how we teach (pedagogy), what we teach (content), and the context within which teaching and learning happen.
+
+Conclusion
+
+Coming back to our original question, what is it that teachers need to know? Clearly, teachers need to have an understanding of what is to be taught (the content). They need to understand how the teaching is to be done (the pedagogy) and the technology and tools that allow us to represent ideas and share them with each other. Of course, these happen within specific contexts. But it's important to understand that these three are not taken in isolation of each other. That technology, pedagogy, and content interact with each other. It's this intersection, this point where all three meet, where true intelligent integration of technology happens.
+
+This framework is called the Technological Pedagogical Content Knowledge framework, or the TPACK framework. Another way of thinking about it is it's the total package for teaching with technology. So, whether you're using a slate, which is a technology, or a computer, or a website, teaching is and, in fact, always has been about TPACK.
+
+To sum up, we live in a new ecology, a world, a new ecology of media and tools and devices where standard solutions don't work. We come up with creative ways of thinking about technology integration, not through magic, but through the thoughtful development of TPACK. Thank you very much. I hope this was a good introduction to the TPACK framework. This is my contact information.
