@@ -1,0 +1,89 @@
+### TPACK — Uma visão integrada e integradora dos conhecimentos pedagógicos, tecnológicos e de conteúdo
+
+T — technological 
+
+P — pedagogical 
+
+A — and 
+
+C — content 
+
+K — knowledge 
+
+
+### Conhecimento de conteúdo (CK)
+(Content Knowledge - CK)
+
+* o conhecimento relacionado com a área disciplinar de ensino de cada professor, seja biologia, matemática, história ou outra qualquer.
+
+* constituído pelos factos, conceitos e teorias de cada área disciplinar.
+
+* Implica o reconhecimento dos aspetos centrais e secundários dos conteúdos. 
+
+
+### Conhecimento pedagógico (PK)
+(Pedagogical Knowledge - PK)
+
+* conhecimento sobre como ensinar, gerir e organizar os ambientes e espaços de aprendizagem.
+
+* entre outros, conhecimento sobre teorias de aprendizagem; design instrucional; estratégias e métodos de ensino e avaliação.
+
+* conhecimento que nos ajuda a construir experiências de aprendizagem significativas. 
+
+
+### Conhecimento tecnológico (TK)
+(Technological Knowledge - Tk)
+
+* abrange o conhecimento dos recursos tecnológicos incluindo os dispositivos e os serviços e interfaces.
+
+* inclui o conhecimento da qualidade do conteúdos e das atividades de aprendizagem a que os alunos têm acesso através de apps e websites. 
+
+### Conhecimento Pedagógico do Conteúdo
+### Content Pedagogical Knowledge — CPK)
+
+(Conhecimento  de conteúdo  (CK) + Conhecimento  pedagógico  (PK))
+
+* áreadeinterseção entre o conhecimento do conteúdo e o conhecimento pedagógico.
+
+* oconhecimento que orienta a escolha dos melhores métodos e estratégias para ensinar os diferentes conteúdos.
+
+
+
+
+ 
+### Conhecimento Tecnológico do Conteúdo
+(Technological Content Knowledge — TCK) 
+
+Conhecimento de conteúdo (CK) + Conhecimento tecnológico (TK) 
+
+* refere-se à forma como as tecnologias são integradas com os conteúdos das áreas disciplinares, de forma a promover aprendizagens profundas e duradouras.
+
+
+### Conhecimento Tecnológico Pedagógico
+(Technological Pedagogical Knowledge — TPK) 
+
+Conhecimento tecnológico TK) + Conhecimento pedagógico (PK) 
+
+* O “conhecimento tecnológico pedagógico” é aquele que nos orienta na seleção e gestão do uso das tecnologias, de forma a potencializar as estratégias pedagógicas. 
+
+
+### Conhecimento Tecnológico, Pedagógico e do Conteúdo
+(Tecnological, Pedagogical and Content Knowledge - TPACK)
+
+Conhecimento tecnológico + Conhecimento do conteúdo = Conhecimento tecnológico do conteúdo 
+
+Conhecimento do conteúdo + Conhecimento pedagógico = Conhecimento pedagógico do conteúdo 
+
+Conhecimento pedagógico + Conhecimento tecnológico = Conhecimento tecnológico e pedagógico 
+
+
+
+### EM SÍNTESE...
+
+* O TPACK é um quadro concetual que identifica os domínios do conhecimento que os professores devem possuir e destaca a interseção que deve existir entre esses domínios.
+
+* "O TPACK pode orientar o desenho de iniciativas de formação de professores, apoiar as decisões ao nível do investimento em tecnologias e estimular a colaboração entre professores.
+
+* Pode também ajudar a perceber que as tecnologias não devem ser o foco, por mais apelativas ou interessantes que sejam. O foco tem que ser nas aprendizagens.
+
+* “Podeorientara forma como tomamos decisões referentes à integração das tecnologias nas práticas pedagógicas. 
